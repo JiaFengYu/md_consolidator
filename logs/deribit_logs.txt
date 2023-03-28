@@ -1,0 +1,8 @@
+BTC-PERPETUAL: bestBid 21358.5, bestBitQuantity 68580, bestAsk 21359, bestAskQuantity 108390, eventTime 1673981444864, localTimestamp 1673981444954, totalLatency 90
+BTC-PERPETUAL: bestBid 21358.5, bestBitQuantity 68580, bestAsk 21359, bestAskQuantity 106940, eventTime 1673981445145, localTimestamp 1673981445251, totalLatency 106
+BTC-PERPETUAL: bestBid 21358.5, bestBitQuantity 68580, bestAsk 21359, bestAskQuantity 116940, eventTime 1673981445156, localTimestamp 1673981445251, totalLatency 95
+BTC-PERPETUAL: bestBid 21358.5, bestBitQuantity 68580, bestAsk 21359, bestAskQuantity 118390, eventTime 1673981445422, localTimestamp 1673981445551, totalLatency 129
+BTC-PERPETUAL: bestBid 21358.5, bestBitQuantity 68580, bestAsk 21359, bestAskQuantity 116940, eventTime 1673981445784, localTimestamp 1673981445830, totalLatency 46
+BTC-PERPETUAL: bestBid 21358.5, bestBitQuantity 68580, bestAsk 21359, bestAskQuantity 118390, eventTime 1673981446048, localTimestamp 1673981446094, totalLatency 46
+BTC-PERPETUAL: bestBid 21358.5, bestBitQuantity 68580, bestAsk 21359, bestAskQuantity 108390, eventTime 1673981446499, localTimestamp 1673981446543, totalLatency 44
+BTC-PERPETUAL: bestBid 21358.5, bestBitQuantity 68580, bestAsk 21359, bestAskQuantity 106940, eventTime 1673981446753, localTimestamp 1673981446815, totalLatency 62
